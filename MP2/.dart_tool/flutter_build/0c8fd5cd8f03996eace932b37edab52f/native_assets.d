@@ -1,0 +1,1 @@
+ /Users/merlinsimoes/Documents/Mobile-Application/MP2/.dart_tool/flutter_build/0c8fd5cd8f03996eace932b37edab52f/native_assets.yaml: 
